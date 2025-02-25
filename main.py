@@ -3,7 +3,7 @@ import csv
 
 # Define categories (You can customize this)
 CATEGORIES = {
-    "Groceries": ["walmart", "costco", "grocery"],
+    "Groceries": ["coles", "woolworth", "grocery"],
     "Rent": ["rent", "landlord"],
     "Utilities": ["electric", "water", "gas"],
     "Entertainment": ["netflix", "spotify", "cinema"],
